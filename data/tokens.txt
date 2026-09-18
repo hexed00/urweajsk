@@ -1,0 +1,3 @@
+# Put one token per line
+# Lines starting with # are ignored
+# This file is created automatically if missing
